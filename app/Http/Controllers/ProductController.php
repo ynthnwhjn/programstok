@@ -12,9 +12,6 @@ class ProductController extends CrudController
       $items = Mbarang::all();
 
       return $items;
-      // return [
-      //    'items' => $items,
-      // ];
    }
 
    public function setupForm()

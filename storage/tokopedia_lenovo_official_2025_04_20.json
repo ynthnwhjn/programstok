@@ -1,0 +1,4317 @@
+[
+	{
+		"name": "ThinkPad Universal USB-C Dock",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkpad-universal-usb-c-dock-1731190766291092685?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16596277492",
+		"price": {
+			"text_idr": "Rp3.895.999",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/72706430-4b14-4da2-82c2-fa817fa8677d.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/18/72706430-4b14-4da2-82c2-fa817fa8677d.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/72706430-4b14-4da2-82c2-fa817fa8677d.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkPad Executive 16\" Backpack",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkpad-executive-16-backpack-1731190630944376013?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16596179698",
+		"price": {
+			"text_idr": "Rp2.965.999",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/1c3759f3-bda6-41ad-a34a-5e6d2ea7f8c0.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/18/1c3759f3-bda6-41ad-a34a-5e6d2ea7f8c0.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/1c3759f3-bda6-41ad-a34a-5e6d2ea7f8c0.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Performance FHD Webcam",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-performance-fhd-webcam-1731181935309915341?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16592412256",
+		"price": {
+			"text_idr": "Rp919.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/e5affd1c-6a69-4346-8e66-3203f77b30f2.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/17/e5affd1c-6a69-4346-8e66-3203f77b30f2.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/e5affd1c-6a69-4346-8e66-3203f77b30f2.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Pro 5i 14IAH10 Core Ultra 7 255H 24GB 1TB SSD W11 OHS 2024 2.8K OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-pro-5i-14iah10-core-ultra-7-255h-24gb-1tb-ssd-w11-ohs-2024-2-8k-oled-1731181782124692685?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16592290065",
+		"price": {
+			"text_idr": "Rp18.299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/e3e2c125-ab5f-4f03-aee1-44cfb71a9bd6.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/17/e3e2c125-ab5f-4f03-aee1-44cfb71a9bd6.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/e3e2c125-ab5f-4f03-aee1-44cfb71a9bd6.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp19.213.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion PRO 34WD-10 34\" UWQHD OLED 240Hz 99% sRGB 98.5% DCI-P3",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-pro-34wd-10-34-uwqhd-oled-240hz-99-srgb-98-5-dci-p3-1731163704954291405?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577470008",
+		"price": {
+			"text_idr": "Rp17.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/15/bc701358-f21d-49be-b62c-0909b2ecc321.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/15/bc701358-f21d-49be-b62c-0909b2ecc321.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/15/bc701358-f21d-49be-b62c-0909b2ecc321.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp18.373.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Charger Slim Tip 300W Adaptor",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-charger-slim-tip-300w-adaptor-1731163684172039373?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577438667",
+		"price": {
+			"text_idr": "Rp2.199.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/4c22495e-d387-451f-a7a6-977c07b2316a.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/4c22495e-d387-451f-a7a6-977c07b2316a.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/4c22495e-d387-451f-a7a6-977c07b2316a.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion Charger Slim Tip 170W Adapter",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-charger-slim-tip-170w-adapter-1731163654062507213?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577421678",
+		"price": {
+			"text_idr": "Rp1.699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/ff240d3e-10e6-40e4-8a80-38dd3779a88c.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/ff240d3e-10e6-40e4-8a80-38dd3779a88c.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/ff240d3e-10e6-40e4-8a80-38dd3779a88c.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion Charger Slim 140W Adapter USB-C",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-charger-slim-140w-adapter-usb-c-1731163611593934029?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577405032",
+		"price": {
+			"text_idr": "Rp1.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/bef6cdaf-e973-4aed-ab8e-28b95d871377.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/bef6cdaf-e973-4aed-ab8e-28b95d871377.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/bef6cdaf-e973-4aed-ab8e-28b95d871377.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			},
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion Cleaning & Tool Kit",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-cleaning-tool-kit-1731163558365267149?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577388748",
+		"price": {
+			"text_idr": "Rp299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/6ba74fe0-9d70-45dd-b48e-4c03a38b8a88.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/6ba74fe0-9d70-45dd-b48e-4c03a38b8a88.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/6ba74fe0-9d70-45dd-b48e-4c03a38b8a88.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo E310 True Wireless Stereo Earbuds standalone-white",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-e310-true-wireless-stereo-earbuds-standalone-white-1731163533115950285?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577372418",
+		"price": {
+			"text_idr": "Rp299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/350073b8-0300-4bf2-9ca8-05f4be0df195.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/350073b8-0300-4bf2-9ca8-05f4be0df195.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/350073b8-0300-4bf2-9ca8-05f4be0df195.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo 540 USB-C Wireless Compact Mouse",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-540-usb-c-wireless-compact-mouse-1731163493467718861?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577352989",
+		"price": {
+			"text_idr": "Rp349.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/562ea05a-a746-4d36-917f-f1db98d756cd.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/562ea05a-a746-4d36-917f-f1db98d756cd.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/562ea05a-a746-4d36-917f-f1db98d756cd.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo 300 Wireless Compact Mouse",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-300-wireless-compact-mouse-1731163451503576269?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577322677",
+		"price": {
+			"text_idr": "Rp179.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/138bd6ac-5910-447c-ad06-0e706122b655.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/138bd6ac-5910-447c-ad06-0e706122b655.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/138bd6ac-5910-447c-ad06-0e706122b655.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Cloth Gaming Mouse Pad M",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-cloth-gaming-mouse-pad-m-1731163294328456397?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577226105",
+		"price": {
+			"text_idr": "Rp99.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/c50a7829-4195-47e8-9e2d-e71edab29cc3.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/c50a7829-4195-47e8-9e2d-e71edab29cc3.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/c50a7829-4195-47e8-9e2d-e71edab29cc3.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Cloth Gaming Mouse Pad L",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-cloth-gaming-mouse-pad-l-1731163236211655885?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577203088",
+		"price": {
+			"text_idr": "Rp179.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/f4db5075-77f3-4f1d-9de8-e3533a2119d6.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/f4db5075-77f3-4f1d-9de8-e3533a2119d6.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/f4db5075-77f3-4f1d-9de8-e3533a2119d6.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion Gaming Speed Mouse Pad M",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-gaming-speed-mouse-pad-m-1731163102280910029?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16577147711",
+		"price": {
+			"text_idr": "Rp149.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/91ea7c79-ad7c-45d8-aeb6-094e3254596a.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/14/91ea7c79-ad7c-45d8-aeb6-094e3254596a.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/14/91ea7c79-ad7c-45d8-aeb6-094e3254596a.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "MICROSOFT Office Home 2024",
+		"product_url": "https://www.tokopedia.com/lenovo-official/microsoft-office-home-2024-1731137093984355533?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16553847867",
+		"price": {
+			"text_idr": "Rp1.699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/10/8766a1d7-8746-4087-b2f4-c4445bcd97a4.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/10/8766a1d7-8746-4087-b2f4-c4445bcd97a4.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/10/8766a1d7-8746-4087-b2f4-c4445bcd97a4.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Yoga 7 2-in-1 14ILL10 Core Ultra 7 258V 32GB 1TB SSD W11 OHS 2024 2.8K WQXGA+ OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-yoga-7-2-in-1-14ill10-core-ultra-7-258v-32gb-1tb-ssd-w11-ohs-2024-2-8k-wqxga-oled-1731131843278439629?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16547353233",
+		"price": {
+			"text_idr": "Rp22.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/9/5ea86592-f651-4836-aad2-4910b1c13871.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/9/5ea86592-f651-4836-aad2-4910b1c13871.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/9/5ea86592-f651-4836-aad2-4910b1c13871.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp24.148.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Universal Charger T33 330W Multi Head Power Adapters",
+		"product_url": "https://www.tokopedia.com/lenovo-official/universal-charger-t33-330w-multi-head-power-adapters-1731127131196458189?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16542489934",
+		"price": {
+			"text_idr": "Rp2.449.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/8/451c616d-1a26-4af7-ac87-a4589dd5c2d8.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/8/451c616d-1a26-4af7-ac87-a4589dd5c2d8.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/8/451c616d-1a26-4af7-ac87-a4589dd5c2d8.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad X1 Carbon Gen 13  Core Ultra 7 268V 32GB 1TB SSD W11 Pro 2.8K OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-x1-carbon-gen-13-core-ultra-7-268v-32gb-1tb-ssd-w11-pro-2-8k-oled-1731126940778923213?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16542163760",
+		"price": {
+			"text_idr": "Rp42.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/8/6e0fec6c-b9a4-4c92-a973-8904b8ae8de1.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/8/6e0fec6c-b9a4-4c92-a973-8904b8ae8de1.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/8/6e0fec6c-b9a4-4c92-a973-8904b8ae8de1.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp45.148.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Produk Terbaru",
+				"type": "textDarkOrange",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			},
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad T14 Gen 5 (AMD) Ryzen 7 PRO 8840U 32GB 1TB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-t14-gen-5-amd-ryzen-7-pro-8840u-32gb-1tb-ssd-w11-pro-1731082094271431885?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16515769156",
+		"price": {
+			"text_idr": "Rp26.850.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/9d3c442f-b893-4b1c-9df7-a93691078aef.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/27/9d3c442f-b893-4b1c-9df7-a93691078aef.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/9d3c442f-b893-4b1c-9df7-a93691078aef.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp28.192.500",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad T14 Gen 5 (AMD) Ryzen 5 PRO 8540U 16GB 1TB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-t14-gen-5-amd-ryzen-5-pro-8540u-16gb-1tb-ssd-w11-pro-1731082021891572941?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16515731142",
+		"price": {
+			"text_idr": "Rp22.550.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/7783d4e7-0cab-47b4-bbbb-b5479919593d.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/27/7783d4e7-0cab-47b4-bbbb-b5479919593d.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/7783d4e7-0cab-47b4-bbbb-b5479919593d.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp23.677.500",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad E14 Gen 6 (AMD) Ryzen 7 7735U 16GB 1TB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-e14-gen-6-amd-ryzen-7-7735u-16gb-1tb-ssd-w11-pro-1731081955242247373?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16515650623",
+		"price": {
+			"text_idr": "Rp19.325.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/9f927373-edab-4a19-8dd8-edd72a5f658f.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/27/9f927373-edab-4a19-8dd8-edd72a5f658f.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/9f927373-edab-4a19-8dd8-edd72a5f658f.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp20.291.250",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad E14 Gen 6 (AMD) Ryzen 5 7535U 8GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-e14-gen-6-amd-ryzen-5-7535u-8gb-512gb-ssd-w11-pro-1731081929369355469?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16515624328",
+		"price": {
+			"text_idr": "Rp16.100.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/1d8eecd4-1af3-42a1-b795-16c0e5cd134c.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/27/1d8eecd4-1af3-42a1-b795-16c0e5cd134c.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/27/1d8eecd4-1af3-42a1-b795-16c0e5cd134c.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp16.905.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Yoga Slim 7 14ILL10 Aura Edition Core Ultra 5 226V 16GB 512GB SSD W11 OHS 2.8K OLED Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-yoga-slim-7-14ill10-aura-edition-core-ultra-5-226v-16gb-512gb-ssd-w11-ohs-2-8k-oled-touch-1731042842549257421?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16481520539",
+		"price": {
+			"text_idr": "Rp17.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/98e51206-50fc-4912-a720-1dcef04f689c.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/20/98e51206-50fc-4912-a720-1dcef04f689c.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/98e51206-50fc-4912-a720-1dcef04f689c.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp18.898.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Yoga Slim 7 14ILL10 Aura Edition Core Ultra 7 258V 32GB 1TB SSD W11 OHS 2.8K OLED Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-yoga-slim-7-14ill10-aura-edition-core-ultra-7-258v-32gb-1tb-ssd-w11-ohs-2-8k-oled-touch-1731042808356308173?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16481505699",
+		"price": {
+			"text_idr": "Rp21.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/7bf5538f-de14-470a-827d-b31567ab47f3.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/20/7bf5538f-de14-470a-827d-b31567ab47f3.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/7bf5538f-de14-470a-827d-b31567ab47f3.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp23.098.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 3,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U 16GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-flex-5-14abr8-ryzen-7-5825u-16gb-512gb-ssd-w11-ohs-1731042711329277133?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16481444737",
+		"price": {
+			"text_idr": "Rp11.899.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/0e1434ec-614e-47be-b6de-34b4c93ac170.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/20/0e1434ec-614e-47be-b6de-34b4c93ac170.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/0e1434ec-614e-47be-b6de-34b4c93ac170.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp12.493.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "2 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-flex-5-14abr8-ryzen-5-5625u-8gb-512gb-ssd-w11-ohs-1731042667341907149?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16481409029",
+		"price": {
+			"text_idr": "Rp10.299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/276f7592-1e19-4e86-a216-438eb9e42389.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/20/276f7592-1e19-4e86-a216-438eb9e42389.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/20/276f7592-1e19-4e86-a216-438eb9e42389.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp10.813.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 27IRH9 Core i7-13620H 16GB 1TB SSD W11 OHS Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-27irh9-core-i7-13620h-16gb-1tb-ssd-w11-ohs-touch-1731034683854390477?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16470653926",
+		"price": {
+			"text_idr": "Rp21.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/19/ba81a992-48df-474a-9b7b-28704af34c0e.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/19/ba81a992-48df-474a-9b7b-28704af34c0e.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/19/ba81a992-48df-474a-9b7b-28704af34c0e.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp23.098.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "3 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Yoga Slim 9i 14ILL10 Core Ultra 7 258V 32GB 1TB SSD W11 OHS 4K OLED Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-yoga-slim-9i-14ill10-core-ultra-7-258v-32gb-1tb-ssd-w11-ohs-4k-oled-touch-1731015256119084237?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16447741414",
+		"price": {
+			"text_idr": "Rp30.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/d37dcb18-c59b-4c2d-aa74-f77648ca0796.png",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/17/d37dcb18-c59b-4c2d-aa74-f77648ca0796.png",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/17/d37dcb18-c59b-4c2d-aa74-f77648ca0796.png",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp32.548.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Yoga 9i 2-in-1 14ILL10 Core Ultra 7 258V 32GB 1TB SSD W11 OHS OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-yoga-9i-2-in-1-14ill10-core-ultra-7-258v-32gb-1tb-ssd-w11-ohs-oled-1731010990640760013?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16442485571",
+		"price": {
+			"text_idr": "Rp29.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/f0986c35-f12c-428c-aa13-5787a2c5debc.png",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/18/f0986c35-f12c-428c-aa13-5787a2c5debc.png",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/18/f0986c35-f12c-428c-aa13-5787a2c5debc.png",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp31.498.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Pro 5 16IAH10 Core Ultra 7 255H 24GB 1TB SSD W11 OHS OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-pro-5-16iah10-core-ultra-7-255h-24gb-1tb-ssd-w11-ohs-oled-1731005145652233421?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16434313893",
+		"price": {
+			"text_idr": "Rp18.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/25/f2813d61-8d45-41d5-a61c-b9483f040e68.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/25/f2813d61-8d45-41d5-a61c-b9483f040e68.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/25/f2813d61-8d45-41d5-a61c-b9483f040e68.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp19.423.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Slim 3i 14IRH10R Core 5 210H 16GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-slim-3i-14irh10r-core-5-210h-16gb-512gb-ssd-w11-ohs-1731002741226636493?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16431115414",
+		"price": {
+			"text_idr": "Rp10.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/12/a0de6a27-df35-441d-b698-d4e588808ad3.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/12/a0de6a27-df35-441d-b698-d4e588808ad3.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/12/a0de6a27-df35-441d-b698-d4e588808ad3.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp11.023.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 24IRH9 Intel Processor U300 8GB 512GB DOS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-24irh9-intel-processor-u300-8gb-512gb-dos-1730972124076934349?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16392169543",
+		"price": {
+			"text_idr": "Rp7.959.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/7/53ba4c2f-e64e-4b69-b692-c93dc5fbe944.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/7/53ba4c2f-e64e-4b69-b692-c93dc5fbe944.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/7/53ba4c2f-e64e-4b69-b692-c93dc5fbe944.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp8.118.180",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 27IRH9 Core i9-13900H 32GB 1TB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-27irh9-core-i9-13900h-32gb-1tb-w11-ohs-1730967738844415181?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16387284245",
+		"price": {
+			"text_idr": "Rp26.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/6/75642c22-86f5-4c9b-93d6-5518b4458b9e.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/6/75642c22-86f5-4c9b-93d6-5518b4458b9e.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/6/75642c22-86f5-4c9b-93d6-5518b4458b9e.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp27.538.980",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Motorola G45 5G 8/256GB - Up to 16GB Extended RAM - Snapdragon 6s Gen 3 - 6.5 inch Screen Size - Gorilla Glass 3 - 120Hz - 50MP Main Camera",
+		"product_url": "https://www.tokopedia.com/lenovo-official/motorola-g45-5g-8-256gb-up-to-16gb-extended-ram-snapdragon-6s-gen-3-6-5-inch-screen-size-gorilla-glass-3-120hz-50mp-main-camera-1730934100848903373?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16345388607",
+		"price": {
+			"text_idr": "Rp2.539.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/28/824f6693-3171-4279-aba4-9f5776ace1ef.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/28/824f6693-3171-4279-aba4-9f5776ace1ef.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/28/824f6693-3171-4279-aba4-9f5776ace1ef.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "40+ terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 28,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkBook 14 G7 ARP Ryzen 5 7535HS 16GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkbook-14-g7-arp-ryzen-5-7535hs-16gb-512gb-ssd-w11-ohs-1730998283208131789?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "16425383635",
+		"price": {
+			"text_idr": "Rp11.520.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/27/745eb476-2c63-41dd-bd06-d2bf926c47be.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/27/745eb476-2c63-41dd-bd06-d2bf926c47be.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/27/745eb476-2c63-41dd-bd06-d2bf926c47be.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp12.096.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "4 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 3,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkPad L14 Gen 5 (Intel) Core Ultra 7 155U 16GB 1TB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkpad-l14-gen-5-intel-core-ultra-7-155u-16gb-1tb-ssd-w11-pro-1730911735260808397?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317856059",
+		"price": {
+			"text_idr": "Rp21.690.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/f096d15a-cf24-4874-926c-9280d6caead5.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/f096d15a-cf24-4874-926c-9280d6caead5.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/f096d15a-cf24-4874-926c-9280d6caead5.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp22.774.499",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkPad L14 Gen 5 (Intel) Core Ultra 5 125U 8GB 512GB W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkpad-l14-gen-5-intel-core-ultra-5-125u-8gb-512gb-w11-pro-1730911708454749389?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "16317837482",
+		"price": {
+			"text_idr": "Rp18.360.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/1d8619ee-3201-44ce-906a-2451ddc7f802.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/1d8619ee-3201-44ce-906a-2451ddc7f802.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/1d8619ee-3201-44ce-906a-2451ddc7f802.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp19.277.999",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkBook 13x G4 IMH Core Ultra 9 185H 32GB 1TB SSD W11 Pro Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkbook-13x-g4-imh-core-ultra-9-185h-32gb-1tb-ssd-w11-pro-touch-1730911581610607821?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317715592",
+		"price": {
+			"text_idr": "Rp32.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/80a6dc72-b0f2-42d5-a48a-2d29b878f807.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/80a6dc72-b0f2-42d5-a48a-2d29b878f807.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/80a6dc72-b0f2-42d5-a48a-2d29b878f807.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp34.123.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i7-13620H 16GB 1 TB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i7-13620h-16gb-1-tb-ssd-w11-ohs-1730911492086596813?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317592563",
+		"price": {
+			"text_idr": "Rp15.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/d5bc6ebf-2a64-4f5f-b25d-a265c5423c69.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/d5bc6ebf-2a64-4f5f-b25d-a265c5423c69.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/d5bc6ebf-2a64-4f5f-b25d-a265c5423c69.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "9",
+			"original_price_fmt": "Rp17.113.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i7-13620H 16GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i7-13620h-16gb-512gb-ssd-w11-ohs-1730911451982365901?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317532924",
+		"price": {
+			"text_idr": "Rp15.699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/2d567001-173a-4a70-a035-cc99796b0c3b.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/2d567001-173a-4a70-a035-cc99796b0c3b.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/2d567001-173a-4a70-a035-cc99796b0c3b.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp16.483.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i7-13620H 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i7-13620h-8gb-512gb-ssd-w11-ohs-1730911396979836109?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317463297",
+		"price": {
+			"text_idr": "Rp14.899.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/61b2f442-39e3-43b4-a385-506257cb2bdd.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/61b2f442-39e3-43b4-a385-506257cb2bdd.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/61b2f442-39e3-43b4-a385-506257cb2bdd.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp15.643.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i5-13420H 8GB 512GB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i5-13420h-8gb-512gb-w11-ohs-1730911340733695181?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317411712",
+		"price": {
+			"text_idr": "Rp12.099.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/a7572d0a-cd41-4c01-8837-67279c14a71b.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/a7572d0a-cd41-4c01-8837-67279c14a71b.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/a7572d0a-cd41-4c01-8837-67279c14a71b.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp12.703.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i3-1315U 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i3-1315u-8gb-512gb-ssd-w11-ohs-1730911319063364813?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317388447",
+		"price": {
+			"text_idr": "Rp9.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/5dafe1cf-e2cc-4fc1-a54a-53cfe2ef621a.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/5dafe1cf-e2cc-4fc1-a54a-53cfe2ef621a.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/5dafe1cf-e2cc-4fc1-a54a-53cfe2ef621a.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "11",
+			"original_price_fmt": "Rp10.708.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50a 24 Gen 5 Core i3-1315U 8GB 512GB SSD DOS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50a-24-gen-5-core-i3-1315u-8gb-512gb-ssd-dos-1730911260214985933?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317354068",
+		"price": {
+			"text_idr": "Rp8.699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/27231f4d-08fb-4a9a-923c-0d907a55d98a.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/27231f4d-08fb-4a9a-923c-0d907a55d98a.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/27231f4d-08fb-4a9a-923c-0d907a55d98a.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "10",
+			"original_price_fmt": "Rp9.658.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50t Gen 5 Core i7-14700 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50t-gen-5-core-i7-14700-8gb-512gb-ssd-w11-ohs-1730911201620100301?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317294525",
+		"price": {
+			"text_idr": "Rp16.799.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/8/a0197db0-b40c-4b25-9a67-8e2544b24521.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/3/8/a0197db0-b40c-4b25-9a67-8e2544b24521.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/3/8/a0197db0-b40c-4b25-9a67-8e2544b24521.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp17.638.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "ThinkCentre neo 50t Gen 5 Core i5-14400 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/thinkcentre-neo-50t-gen-5-core-i5-14400-8gb-512gb-ssd-w11-ohs-1731076069400675533?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16510746334",
+		"price": {
+			"text_idr": "Rp13.399.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/a2f92125-fba8-4a7e-bdde-22c2c3086363.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/a2f92125-fba8-4a7e-bdde-22c2c3086363.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/a2f92125-fba8-4a7e-bdde-22c2c3086363.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp13.699.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "2 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 20,
+			"averageRating": "1.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "IdeaCentre AIO 24IRH9 Core i5-13420H 8GB 512GB SSD W11 OHS Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/ideacentre-aio-24irh9-core-i5-13420h-8gb-512gb-ssd-w11-ohs-touch-1731133117508977869?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16549230842",
+		"price": {
+			"text_idr": "Rp12.399.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/02c9bc22-cf49-4bce-a726-6c7bbaf59e5a.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/02c9bc22-cf49-4bce-a726-6c7bbaf59e5a.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/02c9bc22-cf49-4bce-a726-6c7bbaf59e5a.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp12.699.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "IdeaCentre AIO 24IRH9  U300 8GB 512GB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/ideacentre-aio-24irh9-u300-8gb-512gb-ssd-w11-ohs-1730910942112875725?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16317032309",
+		"price": {
+			"text_idr": "Rp7.599.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/0260576d-82a2-4568-a9c6-ccad5769007d.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/25/0260576d-82a2-4568-a9c6-ccad5769007d.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/25/0260576d-82a2-4568-a9c6-ccad5769007d.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp7.978.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Monitor Legion R27qc-30 27\" Curved QHD 2K 180Hz 0.5ms Respons Time HDMI 2.1x2 DP 1.4x1 Speaker Full Ergonomic Stand Vesa 100x100mm",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-monitor-legion-r27qc-30-27-curved-qhd-2k-180hz-0-5ms-respons-time-hdmi-2-1x2-dp-1-4x1-speaker-full-ergonomic-stand-vesa-100x100mm-1730905235767788749?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "16309778564",
+		"price": {
+			"text_idr": "Rp3.499.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/23/d69d35b3-d592-451d-b658-076ea792dc45.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/23/d69d35b3-d592-451d-b658-076ea792dc45.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/23/d69d35b3-d592-451d-b658-076ea792dc45.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "9",
+			"original_price_fmt": "Rp3.831.450",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "SODIMM  32 GB DDR5 - 5600",
+		"product_url": "https://www.tokopedia.com/lenovo-official/sodimm-32-gb-ddr5-5600-1730897446883984589?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16299160310",
+		"price": {
+			"text_idr": "Rp2.000.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/21/e34dc71d-fe3b-4016-81a6-393ef4f65dcf.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/21/e34dc71d-fe3b-4016-81a6-393ef4f65dcf.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/21/e34dc71d-fe3b-4016-81a6-393ef4f65dcf.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Lenovo 65W AC Power Adapter Charger (USB Type-C tip)",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-lenovo-65w-ac-power-adapter-charger-usb-type-c-tip-1730894508748473549?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16294806278",
+		"price": {
+			"text_idr": "Rp699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/11/b4054524-a8b2-4aed-973b-f5c753609fcb.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/11/b4054524-a8b2-4aed-973b-f5c753609fcb.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/11/b4054524-a8b2-4aed-973b-f5c753609fcb.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "23 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 7,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "UDIMM/LONGDIM 16GB DDR5 - 5600",
+		"product_url": "https://www.tokopedia.com/lenovo-official/udimm-longdim-16gb-ddr5-5600-1730880176693544141?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16273975922",
+		"price": {
+			"text_idr": "Rp1.000.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/106d11c0-2cbd-428d-bbc6-45989b6ba1f8.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/18/106d11c0-2cbd-428d-bbc6-45989b6ba1f8.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/106d11c0-2cbd-428d-bbc6-45989b6ba1f8.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad USB-C Wireless Compact Mouse",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-usb-c-wireless-compact-mouse-1730868733807133901?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16256581550",
+		"price": {
+			"text_idr": "Rp399.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/2c5184fb-71ed-4590-bb01-4ffffe64e5f7.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/18/2c5184fb-71ed-4590-bb01-4ffffe64e5f7.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/2c5184fb-71ed-4590-bb01-4ffffe64e5f7.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "7 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 5,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad Bluetooth Silent Mouse",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-bluetooth-silent-mouse-1730868729346098381?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16256556022",
+		"price": {
+			"text_idr": "Rp399.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/4c3c194c-7de5-449f-b7f1-7e2fdf3bf126.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/18/4c3c194c-7de5-449f-b7f1-7e2fdf3bf126.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/4c3c194c-7de5-449f-b7f1-7e2fdf3bf126.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 4,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad 65W Slim AC Adapter (USB Type-C)",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-65w-slim-ac-adapter-usb-type-c-1730868723800507597?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16256523327",
+		"price": {
+			"text_idr": "Rp699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/24/57a4f278-b28f-42c1-adce-674b35131ebd.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/24/57a4f278-b28f-42c1-adce-674b35131ebd.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/24/57a4f278-b28f-42c1-adce-674b35131ebd.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "23 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 5,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo 65W USB-C Wall Adapter",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-65w-usb-c-wall-adapter-1730868717068715213?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16256492617",
+		"price": {
+			"text_idr": "Rp699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/24/c99f10e4-9774-448a-8635-1a69689dc940.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/24/c99f10e4-9774-448a-8635-1a69689dc940.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/24/c99f10e4-9774-448a-8635-1a69689dc940.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "gimmick",
+				"title": "Sisa 2",
+				"type": "textDarkRed",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			},
+			{
+				"position": "integrity",
+				"title": "17 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 7,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkPad 65W AC Adapter Charger (Slim Tip)",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkpad-65w-ac-adapter-charger-slim-tip-1730868708745643213?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16256465696",
+		"price": {
+			"text_idr": "Rp699.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/11/e1f679c6-2e73-4650-8573-33cb57012521.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/4/11/e1f679c6-2e73-4650-8573-33cb57012521.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/4/11/e1f679c6-2e73-4650-8573-33cb57012521.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "0",
+			"original_price_fmt": "",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 24IRH9 Core i7-13620H 8GB 512GB W11 OHS Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-24irh9-core-i7-13620h-8gb-512gb-w11-ohs-touch-1730866688541951181?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16251848728",
+		"price": {
+			"text_idr": "Rp16.900.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/590348f6-dcee-4918-b78a-4378a55d68dc.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/18/590348f6-dcee-4918-b78a-4378a55d68dc.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/18/590348f6-dcee-4918-b78a-4378a55d68dc.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "6",
+			"original_price_fmt": "Rp17.952.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre neo 50t Gen 5 Core i7-14700 16GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-neo-50t-gen-5-core-i7-14700-16gb-512gb-ssd-w11-pro-1730931182844150989?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16341611215",
+		"price": {
+			"text_idr": "Rp19.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/26d3550c-34d9-400a-99bf-9520228ee001.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/26d3550c-34d9-400a-99bf-9520228ee001.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/26d3550c-34d9-400a-99bf-9520228ee001.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp20.998.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre neo 50t Gen 5 Core i5-14400 8GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-neo-50t-gen-5-core-i5-14400-8gb-512gb-ssd-w11-pro-1730861213120234701?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16241924859",
+		"price": {
+			"text_idr": "Rp14.770.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/08d57f1b-84b3-4e2b-97c2-df97a9d34ffe.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/08d57f1b-84b3-4e2b-97c2-df97a9d34ffe.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/08d57f1b-84b3-4e2b-97c2-df97a9d34ffe.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp15.508.500",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre neo 50t Gen 5 Core i3-14100 8GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-neo-50t-gen-5-core-i3-14100-8gb-512gb-ssd-w11-pro-1730861083596457165?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16241751472",
+		"price": {
+			"text_idr": "Rp12.960.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/a16cf373-4385-4bb0-a788-cf2a9c291a46.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/a16cf373-4385-4bb0-a788-cf2a9c291a46.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/a16cf373-4385-4bb0-a788-cf2a9c291a46.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp13.608.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre M70t Gen 5 Core i7-14700 16GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-m70t-gen-5-core-i7-14700-16gb-512gb-ssd-w11-pro-1730861050088228045?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16241666167",
+		"price": {
+			"text_idr": "Rp21.050.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/caa208b1-83c1-46b3-9948-483dd084e824.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/caa208b1-83c1-46b3-9948-483dd084e824.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/caa208b1-83c1-46b3-9948-483dd084e824.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp22.102.500",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre M70t Gen 5 Core i5-14400 8GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-m70t-gen-5-core-i5-14400-8gb-512gb-ssd-w11-pro-1731076251716650189?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16510820977",
+		"price": {
+			"text_idr": "Rp16.280.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/526d8aab-c1b8-47c9-a942-f82c4244ada9.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/526d8aab-c1b8-47c9-a942-f82c4244ada9.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/526d8aab-c1b8-47c9-a942-f82c4244ada9.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp16.580.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkCentre M70t Gen 5 Core i3-14100 8GB 512GB SSD W11 Pro",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkcentre-m70t-gen-5-core-i3-14100-8gb-512gb-ssd-w11-pro-1730860767512331469?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16241205854",
+		"price": {
+			"text_idr": "Rp13.940.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/d5045f47-1eaa-4866-befd-16f79a57a99e.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/13/d5045f47-1eaa-4866-befd-16f79a57a99e.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/13/d5045f47-1eaa-4866-befd-16f79a57a99e.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp14.637.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Slim 5i 14IRH10 Core i7-13620H 16GB 1TB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-slim-5i-14irh10-core-i7-13620h-16gb-1tb-w11-ohs-1730836328284980429?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16190200086",
+		"price": {
+			"text_idr": "Rp14.299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/7/aeda4509-7705-459e-bd74-46bbf8c75190.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/7/aeda4509-7705-459e-bd74-46bbf8c75190.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/7/aeda4509-7705-459e-bd74-46bbf8c75190.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "3",
+			"original_price_fmt": "Rp14.799.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "9 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 2,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion Go S 8ARP1 Ryzen Z2 Go 16GB 512GB W11 Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-go-s-8arp1-ryzen-z2-go-16gb-512gb-w11-touch-1730835646560175309?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "16188416821",
+		"price": {
+			"text_idr": "Rp8.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/5/986c902b-4226-4b8b-8c93-e1e6b3ef9035.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/5/986c902b-4226-4b8b-8c93-e1e6b3ef9035.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/5/986c902b-4226-4b8b-8c93-e1e6b3ef9035.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "2",
+			"original_price_fmt": "Rp9.199.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "2 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 1,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 24ARR9 Ryzen 7 7735HS 16GB 1TB SSD W11 OHS Touch",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-24arr9-ryzen-7-7735hs-16gb-1tb-ssd-w11-ohs-touch-1730833823708251341?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16182273390",
+		"price": {
+			"text_idr": "Rp14.550.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/5/e0f5ab8b-2420-4de2-9af7-c5dd387c870f.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/5/e0f5ab8b-2420-4de2-9af7-c5dd387c870f.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/5/e0f5ab8b-2420-4de2-9af7-c5dd387c870f.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp15.277.500",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaCentre AIO 27IRH9 Core i5-13420H 8GB 512GB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideacentre-aio-27irh9-core-i5-13420h-8gb-512gb-w11-ohs-1731159466333603021?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16573867844",
+		"price": {
+			"text_idr": "Rp11.800.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/4/926c7304-9781-4d00-8136-796fff3089c6.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/4/926c7304-9781-4d00-8136-796fff3089c6.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/4/926c7304-9781-4d00-8136-796fff3089c6.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "7",
+			"original_price_fmt": "Rp12.705.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "1 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Slim 5i 14IRH10R Core 7 240H 16GB 512GB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-slim-5i-14irh10r-core-7-240h-16gb-512gb-w11-ohs-1730813249754596557?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16111061886",
+		"price": {
+			"text_idr": "Rp14.799.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/10/65a609d7-7a41-4255-a899-b3286fef05a9.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/10/65a609d7-7a41-4255-a899-b3286fef05a9.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/10/65a609d7-7a41-4255-a899-b3286fef05a9.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp15.538.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "2 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Slim 5 14IRH10R Core 5 210H 16GB 512GB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-slim-5-14irh10r-core-5-210h-16gb-512gb-w11-ohs-1730787575954244813?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16056842013",
+		"price": {
+			"text_idr": "Rp12.799.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/16/6e360c5b-5bc5-4fb2-8846-4f0206ed5323.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/1/16/6e360c5b-5bc5-4fb2-8846-4f0206ed5323.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/16/6e360c5b-5bc5-4fb2-8846-4f0206ed5323.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp13.438.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 3,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkSystem V2 ST50 Server Intel Xeon E-2324G 8 GB 1 TB SATA",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinksystem-v2-st50-server-intel-xeon-e-2324g-8-gb-1-tb-sata-1730786731893884109?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16055293567",
+		"price": {
+			"text_idr": "Rp13.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/15/3701402f-44c9-420c-bc4c-0086a7de1d20.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/1/15/3701402f-44c9-420c-bc4c-0086a7de1d20.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/15/3701402f-44c9-420c-bc4c-0086a7de1d20.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp14.698.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo V14 G4 IRU Core i7-1355U 16GB 512GB W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-v14-g4-iru-core-i7-1355u-16gb-512gb-w11-ohs-1730756520525661389?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "16011084568",
+		"price": {
+			"text_idr": "Rp10.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/9/68da8f55-1849-46e8-bcd5-2a201759e0ab.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/1/9/68da8f55-1849-46e8-bcd5-2a201759e0ab.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/9/68da8f55-1849-46e8-bcd5-2a201759e0ab.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "8",
+			"original_price_fmt": "Rp11.999.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "27 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 8,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Monitor Legion R27qe 27\" IPS 180Hz",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-monitor-legion-r27qe-27-ips-180hz?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "15971640382",
+		"price": {
+			"text_idr": "Rp3.299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/31/ab4a7517-963d-4afc-ab55-90c624f6b6a4.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/31/ab4a7517-963d-4afc-ab55-90c624f6b6a4.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/31/ab4a7517-963d-4afc-ab55-90c624f6b6a4.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "13",
+			"original_price_fmt": "Rp3.799.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "5 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 4,
+			"rating": 80,
+			"averageRating": "4.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo IdeaPad Slim 5i 14IRH10 Core i5-13420H 16GB 1TB W11 OHS OLED",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-ideapad-slim-5i-14irh10-core-i5-13420h-16gb-1tb-w11-ohs-oled-1730833275539522765?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "16179830712",
+		"price": {
+			"text_idr": "Rp12.299.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/8/305709b3-93a4-4972-92c0-a9e854697780.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/1/8/305709b3-93a4-4972-92c0-a9e854697780.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/1/8/305709b3-93a4-4972-92c0-a9e854697780.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "6",
+			"original_price_fmt": "Rp13.123.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "17 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 8,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo ThinkBook 14 2-in-1 G4 IML Core Ultra 7 155U 32GB 1TB SSD W11 OHS",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-thinkbook-14-2-in-1-g4-iml-core-ultra-7-155u-32gb-1tb-ssd-w11-ohs?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "15943049568",
+		"price": {
+			"text_idr": "Rp19.799.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/27/bcf9b11d-05f4-452c-8c3f-a87c9b2fee45.png",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2025/2/27/bcf9b11d-05f4-452c-8c3f-a87c9b2fee45.png",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2025/2/27/bcf9b11d-05f4-452c-8c3f-a87c9b2fee45.png",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp20.788.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "4 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 2,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion T7 34IRZ8 Core i7-14700KF 32GB 1TB SSD  RTX 4070 Ti SUPER 16GB",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-t7-34irz8-core-i7-14700kf-32gb-1tb-ssd-rtx-4070-ti-super-16gb?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "15941503707",
+		"price": {
+			"text_idr": "Rp49.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/23/3d4b9fbe-d3f7-43aa-b4ee-3ccc6a6beab6.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/23/3d4b9fbe-d3f7-43aa-b4ee-3ccc6a6beab6.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/23/3d4b9fbe-d3f7-43aa-b4ee-3ccc6a6beab6.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp52.498.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 0,
+			"rating": 0,
+			"averageRating": "",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion R34w-30 Monitor 34\" VA 180 Hz",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-r34w-30-monitor-34-va-180-hz?extParam=whid%3D4521%26src%3Dshop",
+		"product_id": "15936568647",
+		"price": {
+			"text_idr": "Rp4.999.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/18/06231407-2c42-4628-adb4-759da5d28fcf.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/18/06231407-2c42-4628-adb4-759da5d28fcf.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/18/06231407-2c42-4628-adb4-759da5d28fcf.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "5",
+			"original_price_fmt": "Rp5.248.950",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "21 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			},
+			{
+				"position": "campaign",
+				"title": "Spesial Untukmu",
+				"type": "",
+				"url": "https://images.tokopedia.net/img/phOWBv/2024/7/16/6a535a9f-83ed-4473-a7db-3a691ee80854.png",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 7,
+			"rating": 100,
+			"averageRating": "5.0",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	},
+	{
+		"name": "Lenovo Legion R24e 23.8\" IPS 180Hz",
+		"product_url": "https://www.tokopedia.com/lenovo-official/lenovo-legion-r24e-23-8-ips-180hz?extParam=src%3Dshop%26whid%3D4521",
+		"product_id": "15935557979",
+		"price": {
+			"text_idr": "Rp1.849.000",
+			"__typename": "ProductListPrice"
+		},
+		"primary_image": {
+			"original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/18/15b49823-c7c0-4f3f-8b18-f961bdfeddec.jpg",
+			"thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/18/15b49823-c7c0-4f3f-8b18-f961bdfeddec.jpg",
+			"resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2024/12/18/15b49823-c7c0-4f3f-8b18-f961bdfeddec.jpg",
+			"__typename": "ProductListPrimaryImage"
+		},
+		"flags": {
+			"isSold": false,
+			"isPreorder": false,
+			"isWholesale": false,
+			"isWishlist": false,
+			"__typename": "ProductListFlagNew"
+		},
+		"campaign": {
+			"discounted_percentage": "16",
+			"original_price_fmt": "Rp2.205.000",
+			"start_date": "",
+			"end_date": "",
+			"__typename": "ProductDetailCampaignType"
+		},
+		"label": [],
+		"label_groups": [
+			{
+				"position": "integrity",
+				"title": "2 terjual",
+				"type": "textDarkGrey",
+				"url": "",
+				"__typename": "tomeLabelGroup"
+			}
+		],
+		"badge": [
+			{
+				"title": "Mall",
+				"image_url": "https://images.tokopedia.net/img/official_store_badge.png",
+				"__typename": "ShopBadge"
+			}
+		],
+		"stats": {
+			"reviewCount": 2,
+			"rating": 70,
+			"averageRating": "3.5",
+			"__typename": "ProductListStats"
+		},
+		"category": {
+			"id": "0",
+			"__typename": "ProductListCategory"
+		},
+		"__typename": "ShopProductListDetail"
+	}
+]

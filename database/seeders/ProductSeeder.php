@@ -15,9 +15,7 @@ class ProductSeeder extends Seeder
     */
    public function run()
    {
-      // DB::beginTransaction();
-
-      $items = file_get_contents(storage_path('app/tokopedia_lenovo_official_2025_04_20.json'));
+      $items = file_get_contents(storage_path('tokopedia_lenovo_official_2025_04_20.json'));
       $items = json_decode($items);
 
       $values = [];
@@ -30,22 +28,5 @@ class ProductSeeder extends Seeder
       }
 
       DB::table('mbarang')->insert($values);
-
-      // try {
-      //    $values = [];
-      //    foreach ($items as $row) {
-      //       $values[] = [
-      //          'namas' => $row->names,
-      //          'harga_jual' => str_replace(['Rp', '.'], '', $row->price->text_idr),
-      //          'created_at' => Carbon::now(),
-      //       ];
-      //    }
-
-      //    DB::table('mbarang')->insert($values);
-
-      //    DB::commit();
-      // } catch (\Exception $e) {
-      //    DB::rollBack();
-      // }
    }
 }
