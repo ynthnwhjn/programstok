@@ -11,4 +11,9 @@ class Tbelinotah extends Model
 
    protected $table = 'tbelinotah';
    protected $guarded = [];
+
+   public function supplier()
+   {
+      return $this->hasOne(Mcustsupp::class, 'supplier_id', 'id');
+   }
 }

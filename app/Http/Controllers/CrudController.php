@@ -6,20 +6,33 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 use stdClass;
 
-class CrudController extends Controller
+abstract class CrudController extends Controller
 {
    protected $viewPath;
    protected $pageTitle;
    protected $actionIndex;
    protected $actionCreate;
+   protected $formAction;
+   protected $formMethod;
 
    public function __construct()
    {
       $this->viewPath = request()->segment(1);
-      $this->actionIndex = route(request()->segment(1) . '.index');
-      $this->actionCreate = route(request()->segment(1) . '.create');
 
-      // $this->pageTitle = '';
+      if(request()->routeIs(request()->segment(1) . '.*')) {
+         $this->actionIndex = route(request()->segment(1) . '.index');
+         $this->actionCreate = route(request()->segment(1) . '.create');
+      }
+
+      if(request()->routeIs(request()->segment(1) . '.create')) {
+         $this->formAction = request()->segment(1) . '.store';
+         $this->formMethod = 'POST';
+      }
+      else if(request()->routeIs(request()->segment(1) . '.update')) {
+         $this->formAction = request()->segment(1) . '.update';
+         $this->formMethod = 'PUT';
+      }
+
       $this->pageTitle = Str::singular(Str::headline($this->viewPath));
       // $this->pageTitle = Str::headline(Str::singular($this->viewPath));
    }
@@ -60,6 +73,8 @@ class CrudController extends Controller
       $data = [
          'pageTitle' => $this->pageTitle,
          'actionIndex' => $this->actionIndex,
+         'formAction' => $this->formAction,
+         'formMethod' => $this->formMethod,
          'formfield' => $this->setupForm(),
       ];
 
@@ -94,6 +109,8 @@ class CrudController extends Controller
       $data = [
          'pageTitle' => $this->pageTitle,
          'actionIndex' => $this->actionIndex,
+         'formAction' => $this->formAction,
+         'formMethod' => $this->formMethod,
          'formfield' => $this->setupForm(),
       ];
 
@@ -137,4 +154,7 @@ class CrudController extends Controller
    {
       //
    }
+
+   public abstract function setupList();
+   public abstract function setupForm();
 }

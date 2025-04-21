@@ -2,83 +2,29 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Tbelinotah;
 use Illuminate\Http\Request;
 
-class PurchaseInvoiceController extends Controller
+class PurchaseInvoiceController extends CrudController
 {
-   /**
-    * Display a listing of the resource.
-    *
-    * @return \Illuminate\Http\Response
-    */
-   public function index()
+   public function setupList()
    {
-      //
+      $items = Tbelinotah::query()
+         ->with('supplier')
+         ->get();
+
+      return $items;
    }
 
-   /**
-    * Show the form for creating a new resource.
-    *
-    * @return \Illuminate\Http\Response
-    */
-   public function create()
+   public function setupForm()
    {
-      //
-   }
+      $param = request()->route()->parameter('purchase_invoice');
+      $formfield = Tbelinotah::query()
+         ->with([
+            'supplier'
+         ])
+         ->findOrNew($param);
 
-   /**
-    * Store a newly created resource in storage.
-    *
-    * @param  \Illuminate\Http\Request  $request
-    * @return \Illuminate\Http\Response
-    */
-   public function store(Request $request)
-   {
-      //
-   }
-
-   /**
-    * Display the specified resource.
-    *
-    * @param  int  $id
-    * @return \Illuminate\Http\Response
-    */
-   public function show($id)
-   {
-      //
-   }
-
-   /**
-    * Show the form for editing the specified resource.
-    *
-    * @param  int  $id
-    * @return \Illuminate\Http\Response
-    */
-   public function edit($id)
-   {
-      //
-   }
-
-   /**
-    * Update the specified resource in storage.
-    *
-    * @param  \Illuminate\Http\Request  $request
-    * @param  int  $id
-    * @return \Illuminate\Http\Response
-    */
-   public function update(Request $request, $id)
-   {
-      //
-   }
-
-   /**
-    * Remove the specified resource from storage.
-    *
-    * @param  int  $id
-    * @return \Illuminate\Http\Response
-    */
-   public function destroy($id)
-   {
-      //
+      return $formfield;
    }
 }
