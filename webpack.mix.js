@@ -11,8 +11,20 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.autoload({
-   jquery: ['$', 'window.jQuery'],
+// mix.autoload({
+//    jquery: ['$', 'window.jQuery'],
+// });
+
+mix.webpackConfig(webpack => {
+   return {
+      plugins: [
+         new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery',
+            'window.jQuery': 'jquery',
+         })
+      ]
+   };
 });
 
 mix.js('resources/js/app.js', 'public/js')

@@ -28,7 +28,7 @@ abstract class CrudController extends Controller
          $this->formAction = request()->segment(1) . '.store';
          $this->formMethod = 'POST';
       }
-      else if(request()->routeIs(request()->segment(1) . '.update')) {
+      else if(request()->routeIs(request()->segment(1) . '.update') || request()->routeIs(request()->segment(1) . '.show')) {
          $this->formAction = request()->segment(1) . '.update';
          $this->formMethod = 'PUT';
       }
@@ -86,17 +86,6 @@ abstract class CrudController extends Controller
    }
 
    /**
-    * Store a newly created resource in storage.
-    *
-    * @param  \Illuminate\Http\Request  $request
-    * @return \Illuminate\Http\Response
-    */
-   public function store(Request $request)
-   {
-      //
-   }
-
-   /**
     * Display the specified resource.
     *
     * @param  int  $id
@@ -133,18 +122,6 @@ abstract class CrudController extends Controller
    }
 
    /**
-    * Update the specified resource in storage.
-    *
-    * @param  \Illuminate\Http\Request  $request
-    * @param  int  $id
-    * @return \Illuminate\Http\Response
-    */
-   public function update(Request $request, $id)
-   {
-      //
-   }
-
-   /**
     * Remove the specified resource from storage.
     *
     * @param  int  $id
@@ -154,6 +131,9 @@ abstract class CrudController extends Controller
    {
       //
    }
+
+   public abstract function store(Request $request);
+   public abstract function update(Request $request, $id);
 
    public abstract function setupList();
    public abstract function setupForm();

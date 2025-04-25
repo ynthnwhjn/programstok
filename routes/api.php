@@ -15,5 +15,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+   return $request->user();
+});
+
+Route::group(['as' => 'api.'], function() {
+   Route::get('supplier', [\App\Http\Controllers\Api\BrowseController::class, 'supplier'])
+      ->name('supplier');
+
+   Route::get('barang', [\App\Http\Controllers\Api\BrowseController::class, 'barang'])
+      ->name('barang');
 });
