@@ -1,9 +1,13 @@
 @extends('layouts.app')
+
+@section('pageTitle', 'Purchase Invoice')
+
+@section('boxHeaderButtons')
+   <a href="{{route('purchase_invoices.create')}}" class="btn btn-primary">Create</a>
+   <a href="{{route('purchase_invoices.index')}}" class="btn btn-default">Back</a>
+@endSection
+
 @section('content')
-<div class="box box-default">
-   <div class="box-header with-border">
-      <h3 class="box-title">{{$pageTitle}}</h3>
-   </div>
    <form action="{{ route($formAction, $formfield) }}" method="POST" autocomplete="off">
       @csrf
       @method($formMethod)
@@ -17,10 +21,13 @@
                </div>
 
                <div class="form-group">
+                  <label>Tanggal</label>
+                  <x-datepicker name="tanggal" value="{{ old('tanggal', $formfield->tanggal) }}" />
+               </div>
+
+               <div class="form-group">
                   <label>Supplier</label>
                   <x-select2 name="supplier_id" url="{{ route('api.supplier') }}" :selected="old('supplier_id', $formfield->supplier_id)" />
-                  <!-- <input type="text" class="form-control" name="supplier_nama" value="{{ $formfield->supplier ? $formfield->supplier->nama : '' }}"> -->
-                  <!-- <input type="text" name="supplier_id" value="{{$formfield->supplier_id}}"> -->
                </div>
 
                <!-- <div class="form-group">
@@ -32,8 +39,7 @@
       </div>
       <div class="box-footer">
          <button type="submit" class="btn btn-primary">Save</button>
-         <a href="{{$actionIndex}}" class="btn btn-default">Back</a>
+         <a href="{{route('purchase_invoices.index')}}" class="btn btn-default">Back</a>
       </div>
    </form>
-</div>
 @endsection

@@ -1,16 +1,19 @@
 window.$ = window.jQuery = require('jquery');
 require('jquery-slimscroll');
 require('bootstrap');
-// require('alpinejs');
 require('select2');
 require('./adminlte');
 
-import Alpine from 'alpinejs';
-import axios from 'axios';
-import Choices from 'choices.js';
+import flatpickr from "flatpickr";
+window.flatpickr = flatpickr;
 
+import Alpine from 'alpinejs';
 window.Alpine = Alpine;
+
+import axios from 'axios';
 window.axios = axios;
+
+import Choices from 'choices.js';
 window.Choices = Choices;
 
 Alpine.start();

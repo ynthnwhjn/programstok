@@ -13,12 +13,13 @@ class CrudObserver
 
    public function creating(Model $model)
    {
-      if(isset($model->autonumberPrefix)) {
+      if (method_exists($model, 'autonumberOptions')) {
+         $autonumberOptions = $model->autonumberOptions();
 
          $variabel_field_kode = Variabel::query()->firstWhere('nama', 'field_kode');
          $variabel_field_tanggal = Variabel::query()->firstWhere('nama', 'field_tanggal');
-         $variabel_kode_prefix = Variabel::query()->firstWhere('nama', $model->autonumberPrefix);
-         $variabel_kode_format = Variabel::query()->firstWhere('nama', $model->autonumberFormat);
+         $variabel_kode_prefix = Variabel::query()->firstWhere('nama', $autonumberOptions['prefix']);
+         $variabel_kode_format = Variabel::query()->firstWhere('nama', $autonumberOptions['format']);
 
          $tanggal = $model->getAttribute($variabel_field_tanggal->nilai);
 
@@ -27,8 +28,5 @@ class CrudObserver
 
          Log::info($kode);
       }
-
-      // Log::info($model->getTable());
-      // Log::info($model->autonumberPrefix);
    }
 }

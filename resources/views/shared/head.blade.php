@@ -2,11 +2,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>
-      @hasSection('title')
-         @yield('title')
-      @else
-         {{isset($pageTitle) ? $pageTitle : config('app.name')}}
-      @endif
+      @yield('pageTitle')
    </title>
 
    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">

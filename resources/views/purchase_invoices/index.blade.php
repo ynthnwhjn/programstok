@@ -1,13 +1,12 @@
 @extends('layouts.app')
-@section('content')
-<div class="box box-default">
-   <div class="box-header with-border">
-      <h3 class="box-title">{{$pageTitle}}</h3>
 
-      <div>
-         <a href="{{$actionCreate}}" class="btn btn-primary">Create</a>
-      </div>
-   </div>
+@section('pageTitle', 'Purchase Invoice')
+
+@section('boxHeaderButtons')
+   <a href="{{route('purchase_invoices.create')}}" class="btn btn-primary">Create</a>
+@endSection
+
+@section('content')
    <div class="box-body">
       <table class="table">
          <thead>
@@ -34,5 +33,4 @@
          </tbody>
       </table>
    </div>
-</div>
 @endsection

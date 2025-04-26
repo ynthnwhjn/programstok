@@ -28,4 +28,12 @@ class Tbelinotah extends Model
    {
       return $this->hasOne(Mcustsupp::class, 'id', 'supplier_id');
    }
+
+   public function autonumberOptions()
+   {
+      return [
+         'prefix' => 'kode_belinota_prefix',
+         'format' => 'kode_belinota_format',
+      ];
+   }
 }

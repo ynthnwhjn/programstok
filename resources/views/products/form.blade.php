@@ -1,9 +1,13 @@
 @extends('layouts.app')
+
+@section('pageTitle', 'Product')
+
+@section('boxHeaderButtons')
+   <a href="{{route('products.create')}}" class="btn btn-primary">Create</a>
+   <a href="{{route('products.index')}}" class="btn btn-default">Back</a>
+@endSection
+
 @section('content')
-<div class="box box-default">
-   <div class="box-header with-border">
-      <h3 class="box-title">{{$pageTitle}}</h3>
-   </div>
    <form action="{{ route($formAction, $formfield) }}" method="POST" autocomplete="off">
       @csrf
       @method($formMethod)
@@ -20,8 +24,7 @@
          </div>
       </div>
       <div class="box-footer">
-         <a href="{{$actionIndex}}" class="btn btn-default">Back</a>
+         <a href="{{route('products.index')}}" class="btn btn-default">Back</a>
       </div>
    </form>
-</div>
 @endsection

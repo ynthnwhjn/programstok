@@ -38,6 +38,7 @@
         id="{{ $id }}"
         name="{{ $name }}{{ $multiple ? '[]' : '' }}"
         class="form-control"
+        style="width: 100%"
         {{ $multiple ? 'multiple' : '' }}
     >
         @if (!$selected && $placeholder)
