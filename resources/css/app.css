@@ -1,9 +1,16 @@
 @import '~choices.js/public/assets/styles/choices.css';
 @import '~bootstrap/dist/css/bootstrap.css';
 @import '~font-awesome/css/font-awesome.css';
-@import '~select2/dist/css/select2.css';
+@import '~angular-ui-grid/ui-grid.css';
+@import '~angular-toastr/dist/angular-toastr.css';
+@import '~eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css';
+/* @import '~select2/dist/css/select2.css';
 @import '~select2-bootstrap-theme/dist/select2-bootstrap.css';
-@import '~flatpickr/dist/flatpickr.css';
+@import '~flatpickr/dist/flatpickr.css'; */
 @import './skins/skin-black.css';
 @import './skins/skin-black.css';
 @import './AdminLTE.css';
+
+.ui-grid-header-cell {
+   text-align: center;
+}

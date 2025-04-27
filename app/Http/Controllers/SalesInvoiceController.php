@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class SalesInvoiceController extends CrudController
+class SalesInvoiceController extends Controller
 {
    public function setupList()
    {

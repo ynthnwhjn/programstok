@@ -17,11 +17,15 @@ class CreateTstokbarangTable extends Migration
          $table->id();
          $table->bigInteger('transaksih_id');
          $table->bigInteger('transaksid_id');
+         $table->string('transaksi_kode')->default('');
+         $table->bigInteger('gudang_id');
          $table->bigInteger('barang_id');
          $table->decimal('jumlah', 15, 4)->default(0);
+         $table->decimal('harga', 15, 4)->default(0);
          $table->enum('jenis_transaksi', ['JualNota', 'BeliNota'])->default('BeliNota');
          $table->dateTime('tanggal');
          $table->timestamps();
+         $table->timestamp('deleted_at')->nullable();
       });
    }
 

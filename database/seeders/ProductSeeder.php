@@ -20,9 +20,12 @@ class ProductSeeder extends Seeder
 
       $values = [];
       foreach ($items as $row) {
+         $harga_jual = floatval(str_replace(['Rp', '.'], '', $row->price->text_idr));
+
          $values[] = [
             'nama' => $row->name,
-            'harga_jual' => str_replace(['Rp', '.'], '', $row->price->text_idr),
+            'harga_beli' => ($harga_jual - ($harga_jual * 5/100)),
+            'harga_jual' => $harga_jual,
             'created_at' => Carbon::now(),
          ];
       }

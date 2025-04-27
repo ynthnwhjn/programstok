@@ -11,11 +11,11 @@
       <table class="table">
          <thead>
             <tr>
-               <th>#</th>
+               <th style="width: 40px;">#</th>
                <th>Kode</th>
                <th>Tanggal</th>
                <th>Supplier</th>
-               <th></th>
+               <th style="width: 100px;"></th>
             </tr>
          </thead>
          <tbody>
@@ -25,7 +25,7 @@
                   <td>{{$row->kode}}</td>
                   <td>{{$row->tanggal}}</td>
                   <td>{{$row->supplier->nama}}</td>
-                  <td>
+                  <td class="text-center">
                      <a class="btn btn-default" href="{{route('purchase_invoices.show', $row)}}">View</a>
                   </td>
                </tr>

@@ -29,6 +29,11 @@ class Tbelinotah extends Model
       return $this->hasOne(Mcustsupp::class, 'id', 'supplier_id');
    }
 
+   public function purchaseInvoiceDetail()
+   {
+      return $this->hasMany(Tbelinotad::class, 'belinotah_id', 'id');
+   }
+
    public function autonumberOptions()
    {
       return [

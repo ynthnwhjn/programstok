@@ -28,6 +28,7 @@ mix.webpackConfig(webpack => {
 });
 
 mix.js('resources/js/app.js', 'public/js')
+   .js('resources/views/purchase_invoices/*.js', 'public/js/purchase_invoices')
    .postCss('resources/css/app.css', 'public/css', [
       //
    ]);

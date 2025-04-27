@@ -5,8 +5,28 @@ namespace App\Http\Controllers;
 use App\Models\Mcustsupp;
 use Illuminate\Http\Request;
 
-class CustomerController extends CrudController
+class CustomerController extends Controller
 {
+   public function index()
+   {
+      //
+   }
+
+   public function create()
+   {
+      //
+   }
+
+   public function show($id)
+   {
+      //
+   }
+
+   public function update($id)
+   {
+      //
+   }
+
    public function setupList()
    {
       $items = Mcustsupp::query()

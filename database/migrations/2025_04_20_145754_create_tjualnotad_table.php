@@ -21,6 +21,7 @@ class CreateTjualnotadTable extends Migration
          $table->decimal('harga', 15, 4)->default(0);
          $table->decimal('subtotal', 15, 4)->default(0);
          $table->timestamps();
+         $table->timestamp('deleted_at')->nullable();
       });
    }
 
