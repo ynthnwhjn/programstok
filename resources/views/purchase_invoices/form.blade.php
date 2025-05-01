@@ -31,7 +31,9 @@
                      <label>Tanggal</label>
                      <x-datepicker name="tanggal" value="{{ old('tanggal', $formfield->tanggal) }}" ng-model="formfield.tanggal" />
                   </div>
+               </div>
 
+               <div class="col-md-6">
                   <div class="form-group">
                      <label>Supplier</label>
                      <x-typeahead param-directive="browseSupplier()" item-label="nama" name="supplier_nama" ng-model="formfield.supplier.nama" />
@@ -44,10 +46,9 @@
                   <x-typeahead param-directive="browseBarang()" item-label="nama" name="barang_nama" ng-model="formfield.barang.nama" />
                </div>
             </div>
-            <div style="margin-top: 8px;">
+            <div style="margin: 8px 0;">
                <x-grid-form gridOptions="gridform1" />
             </div>
-
 
             <div class="row">
                <div class="col-md-4 col-md-offset-8">

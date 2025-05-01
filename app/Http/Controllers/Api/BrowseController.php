@@ -30,6 +30,26 @@ class BrowseController extends Controller
       ]);
    }
 
+   public function customer()
+   {
+      DB::enableQueryLog();
+
+      $items = Mcustsupp::query()
+         ->where('role', 'Customer')
+         ->where(function($q) {
+            if(request()->filled('keyword')) {
+               $q->where('nama', 'LIKE', '%'. request('keyword') .'%');
+            }
+         })
+         ->get();
+
+      return response()->json([
+         '_debug' => DB::getQueryLog(),
+         'items' => $items,
+         'output' => $items->pluck('nama', 'id'),
+      ]);
+   }
+
    public function barang()
    {
       DB::enableQueryLog();

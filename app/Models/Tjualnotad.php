@@ -10,5 +10,12 @@ class Tjualnotad extends Model
    use HasFactory;
 
    protected $table = 'tjualnotad';
-   protected $guarded = [];
+   protected $guarded = [
+      'barang',
+   ];
+
+   public function barang()
+   {
+      return $this->hasOne(Mbarang::class, 'id', 'barang_id');
+   }
 }

@@ -17638,3 +17638,7 @@ hr {
    text-align: center;
 }
 
+.ui-grid-invisible {
+   display: none;
+}
+

@@ -24,6 +24,13 @@ Route::group(['middleware' => 'auth'], function () {
    Route::resource('purchase_invoices', \App\Http\Controllers\PurchaseInvoiceController::class);
    Route::resource('sales_invoices', \App\Http\Controllers\SalesInvoiceController::class);
 
+   Route::get('laporan_stok_barang', [\App\Http\Controllers\LaporanStokBarangController::class, 'index'])
+      ->name('laporan_stok_barang.index');
+   Route::get('laporan_stok_barang/datasource', [\App\Http\Controllers\LaporanStokBarangController::class, 'datasource'])
+      ->name('laporan_stok_barang.datasource');
+   Route::get('laporan_stok_barang/pracetak', [\App\Http\Controllers\LaporanStokBarangController::class, 'pracetak'])
+      ->name('laporan_stok_barang.pracetak');
+
    Route::get('dashboard', [\App\Http\Controllers\DashboardController::class, 'index']);
 
    Route::get('/', function () {

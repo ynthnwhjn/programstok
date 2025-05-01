@@ -14,3 +14,7 @@
 .ui-grid-header-cell {
    text-align: center;
 }
+
+.ui-grid-invisible {
+   display: none;
+}

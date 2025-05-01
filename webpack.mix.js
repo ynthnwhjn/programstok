@@ -29,6 +29,9 @@ mix.webpackConfig(webpack => {
 
 mix.js('resources/js/app.js', 'public/js')
    .js('resources/views/purchase_invoices/*.js', 'public/js/purchase_invoices')
+   .js('resources/views/sales_invoices/*.js', 'public/js/sales_invoices')
+   .js('resources/views/laporan_stok_barang/*.js', 'public/js/laporan_stok_barang')
+   .postCss('resources/css/pracetak.css', 'public/css')
    .postCss('resources/css/app.css', 'public/css', [
       //
    ]);

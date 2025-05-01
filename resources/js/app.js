@@ -79,7 +79,8 @@ require('angular-validation/dist/angular-validation-rule');
                elem.on('dp.change', function (evt) {
                   $timeout(function () {
                      if (!isDateEqual(evt.date, ngModelCtrl.$viewValue)) {
-                        ngModelCtrl.$setViewValue(moment(evt.date).format('YYYY-MM-DD HH:mm:ss'));
+                        ngModelCtrl.$setViewValue(moment(evt.date).format('YYYY-MM-DD'));
+                        // ngModelCtrl.$setViewValue(moment(evt.date).format('YYYY-MM-DD HH:mm:ss'));
                         // ngModelCtrl.$setViewValue(evt.date);
                      }
                   });
