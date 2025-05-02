@@ -95,6 +95,7 @@ class SalesInvoiceController extends Controller
             ];
          }
 
+         $this->checkStock($data_stok);
          $this->saveStok($data_stok, $jualnota->id, 'JualNota');
 
          DB::commit();
@@ -112,6 +113,7 @@ class SalesInvoiceController extends Controller
             'message' => $e->getMessage(),
             'trace' => $e->getTrace(),
             '_all' => $request->all(),
+            '_debug' => DB::getQueryLog(),
          ], 500);
       }
    }
