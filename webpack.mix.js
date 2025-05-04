@@ -28,6 +28,7 @@ mix.webpackConfig(webpack => {
 });
 
 mix.js('resources/js/app.js', 'public/js')
+   .js('resources/views/customers/*.js', 'public/js/customers')
    .js('resources/views/purchase_invoices/*.js', 'public/js/purchase_invoices')
    .js('resources/views/sales_invoices/*.js', 'public/js/sales_invoices')
    .js('resources/views/laporan_stok_barang/*.js', 'public/js/laporan_stok_barang')

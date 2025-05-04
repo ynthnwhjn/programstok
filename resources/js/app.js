@@ -1,5 +1,6 @@
 window.$ = window.jQuery = require('jquery');
 window.moment = require('moment');
+window.datatable = require('datatables.net-bs');
 require('eonasdan-bootstrap-datetimepicker');
 require('jquery-slimscroll');
 require('bootstrap');

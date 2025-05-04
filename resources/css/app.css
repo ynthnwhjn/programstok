@@ -4,6 +4,7 @@
 @import '~angular-ui-grid/ui-grid.css';
 @import '~angular-toastr/dist/angular-toastr.css';
 @import '~eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css';
+@import '~datatables.net-bs/css/dataTables.bootstrap.css';
 /* @import '~select2/dist/css/select2.css';
 @import '~select2-bootstrap-theme/dist/select2-bootstrap.css';
 @import '~flatpickr/dist/flatpickr.css'; */
@@ -17,4 +18,8 @@
 
 .ui-grid-invisible {
    display: none;
+}
+
+.w100 {
+   width: 100px;
 }

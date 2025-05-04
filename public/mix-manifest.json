@@ -1,5 +1,6 @@
 {
     "/js/app.js": "/js/app.js",
+    "/js/customers/customers_form.js": "/js/customers/customers_form.js",
     "/js/purchase_invoices/purchase_invoices_form.js": "/js/purchase_invoices/purchase_invoices_form.js",
     "/js/sales_invoices/sales_invoices_form.js": "/js/sales_invoices/sales_invoices_form.js",
     "/js/laporan_stok_barang/laporan_stok_barang.js": "/js/laporan_stok_barang/laporan_stok_barang.js",
